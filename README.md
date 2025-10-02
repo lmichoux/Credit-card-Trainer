@@ -50,3 +50,19 @@ Author
 L. Mic.
 
 Contact: lmichoux@gmail.com
+
+#Bounty
+#security
+#awesome
+#osint
+#exploit
+#hacking
+#awesome-list
+#hacktoberfest
+#security-tools
+#threat-intelligence
+#awesome-lists
+#redteaming
+#redteam
+#hacking-tools
+#osint-tool
